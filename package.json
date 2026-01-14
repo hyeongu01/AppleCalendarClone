@@ -1,0 +1,23 @@
+{
+  "name": "applecalendarclone",
+  "version": "1.0.0",
+  "description": "typescript, prisma, express 학습을 위한 애플 캘린더 클론 백엔드",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeongu01/AppleCalendarClone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeongu01/AppleCalendarClone/issues"
+  },
+  "homepage": "https://github.com/hyeongu01/AppleCalendarClone#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
