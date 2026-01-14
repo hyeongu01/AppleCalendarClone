@@ -4,8 +4,8 @@
 
 ## ERD 다이어그램
 
-<div style="text-align: center">
-  <img src="../assets/erd.png" width="500px" alignment="center">
+<div align="center">
+  <img src="../assets/erd.png" width="500px">
 </div>
 
 
