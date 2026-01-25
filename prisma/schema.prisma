@@ -54,12 +54,9 @@ model RefreshToken {
   user User @relation(fields: [userId], references: [id])
   userId Int
   token String @db.VarChar(255)
-  device String
 
-  expiredAt DateTime
   revokedAt DateTime?
 
-  @@unique([userId, device])
   // @@index([userId])
 }
 
